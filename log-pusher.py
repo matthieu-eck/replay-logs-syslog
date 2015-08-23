@@ -1,6 +1,6 @@
 import os
 import sys
-f = open("ExampleLogs.txt",'r')
+f = open("Examplelogs.txt",'r')
 lignes  = f.readlines()
 f.close()
 syslogserver = "192.168.2.98"
